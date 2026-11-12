@@ -7,7 +7,7 @@
 ## Write some mathematical formula between dolars signs
 
 $$
-a^2+b^2=\frac{c^2}{2}
+E = mc^2
 $$
 
 ## Give the list of your classes
